@@ -1,7 +1,7 @@
 # Be leaving when I keep doing or finish that
 Begin: 2023/03/06  
 End: before 2023/12/31  
-## -------------------------------- `About .md` ---------------------------------
+## ------------------------ `About .md` -------------------------
 ### 1. Multi-level title
 # # level.1
 ## ## level.2
@@ -17,7 +17,11 @@ document
 &nbsp;&nbsp;&nbsp;&nbsp;4> \_\bold.2\_\_: __bold.2__  
 &nbsp;&nbsp;&nbsp;&nbsp;5> \*\*\*italic&bold.1\*\*\*: ***italic&bold.1***  
 &nbsp;&nbsp;&nbsp;&nbsp;6> \_\_\_italic&bold.2\_\_\_: ___italic&bold.2___  
-&nbsp;&nbsp;&nbsp;&nbsp;7> \`Highlight\`: `Highlight`  
+&nbsp;&nbsp;&nbsp;&nbsp;7> \~\~strikethrough\~\~: ~~strikethrough~~  
+&nbsp;&nbsp;&nbsp;&nbsp;8> \`Highlight\`: `Highlight`  
+&nbsp;&nbsp;&nbsp;&nbsp;8> subscript\~idx\~: subscript~idx~  
+&nbsp;&nbsp;&nbsp;&nbsp;8> superscript\^pow\^: superscript^pow^  
+
 ### 3. Tabel
 Table header.1|Table header.2|Table header.3
 --|-|-
@@ -56,7 +60,7 @@ Table content.3.1|Table content.3.2|Table content.3.3
 &nbsp;&nbsp;&nbsp;&nbsp;by this way:  
 &nbsp;&nbsp;&nbsp;&nbsp;> content  
 
-## -------------------------------- `About git` ---------------------------------
+## ------------------------ `About git` -------------------------
 ### 1. git add .
 ### 2. git commit -m "commit msg"
 ### 3. git remote add origin https://github.com/TreeSeedFruit/Be-leaving-when-I-keep-doing-or-finish-that.git
@@ -64,5 +68,5 @@ Table content.3.1|Table content.3.2|Table content.3.3
 ### 5. git push -u origin master
 ### 6. ssh-keygen -t rsa -C "email"
 
-## -------------------------------- `About that` --------------------------------
+## ------------------------ `About that` ------------------------
 ### Nothing
