@@ -32,7 +32,7 @@ Table content.3.1|Table content.3.2|Table content.3.3|Table content.3.4
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Table content.1.1\|Table content.1.2\|Table content.1.3\|Table content.1.4  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.1\|2.2\|2.3\|2.4  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Table content.3.1\|Table content.3.2\|Table content.3.3\|Table content.3.4  
-### 4. CheckBox
+### 4. Check-box
 - [ ] Combox.1.1
 - [X] Combox.1.2
 * [ ] Combox.2.1
