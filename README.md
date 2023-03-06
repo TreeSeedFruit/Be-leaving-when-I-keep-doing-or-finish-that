@@ -38,20 +38,19 @@ Table content.3.1|Table content.3.2|Table content.3.3
 3. Tabulation.3
     * Tabulation.3.1
         * Tabulation.3.1.1
-            * [] Tabulation.3.1.1.1
+            * [ ] Tabulation.3.1.1.1
             - [X] Tabulation.3.1.1.2
     * Tabulation.3.2
-
-
-- [x] Tabulation.3.1.1.2
-- [X] Tabulation.3.1.1.2
 
 &nbsp;&nbsp;&nbsp;&nbsp;by this way:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Tabulation.1  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Tabulation.2  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Tabulation.3  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    * Tabulation.3.1(before '\*' exist 3\~6 spaces)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    * Tabulation.3.2(before '\*' exist 3\~6 spaces)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Tabulation.3.1(before '\*' exist 3\~6 spaces)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Tabulation.3.1.1  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* \[ \] Tabulation.3.1.1.1  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* \[X\] Tabulation.3.1.1.1  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Tabulation.3.2(before '\*' exist 3\~6 spaces)  
 ### 5. Control character
 &nbsp;&nbsp;&nbsp;&nbsp;blank space: `&nbsp;`  
 &nbsp;&nbsp;&nbsp;&nbsp;escape character: `\`  
