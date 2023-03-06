@@ -32,6 +32,16 @@ Table content.3.1|Table content.3.2|Table content.3.3
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Table content.1.1\|Table content.1.2\|Table content.1.3  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Table content.2.1\|Table content.2.2\|Table content.2.3  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Table content.3.1\|Table content.3.2\|Table content.3.3  
+### 4. CheckBox
+- [ ] Combox.1.1
+- [X] Combox.1.2
+* [ ] Combox.2.1
+* [X] Combox.2.2
+&nbsp;&nbsp;&nbsp;&nbsp;by this way: 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- \[ \] Combox.1.1  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- \[X\] Combox.1.2  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* \[ \] Combox.2.1  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* \[X\] Combox.2.2  
 ### 4. Tabulation & CheckBox
 1. Tabulation.1
 2. Tabulation.2
@@ -41,11 +51,6 @@ Table content.3.1|Table content.3.2|Table content.3.3
             * [ ] CheckBox.1
             * [X] CheckBox.2
     * Tabulation.3.2  
-
-- [ ] Combox
-- [X] Combox
-* [ ] Combox
-* [X] Combox
 
 &nbsp;&nbsp;&nbsp;&nbsp;by this way:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Tabulation.1  
