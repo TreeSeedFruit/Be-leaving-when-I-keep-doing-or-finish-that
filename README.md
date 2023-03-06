@@ -32,15 +32,18 @@ Table content.3.1|Table content.3.2|Table content.3.3
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Table content.1.1\|Table content.1.2\|Table content.1.3  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Table content.2.1\|Table content.2.2\|Table content.2.3  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Table content.3.1\|Table content.3.2\|Table content.3.3  
-### 4. Tabulation
+### 4. Tabulation & CheckBox
 1. Tabulation.1
 2. Tabulation.2
 3. Tabulation.3
     * Tabulation.3.1
         * Tabulation.3.1.1
             * [ ] Tabulation.3.1.1.1
-            - [X] Tabulation.3.1.1.2
-    * Tabulation.3.2
+            * [X] Tabulation.3.1.1.2
+    * Tabulation.3.2  
+
+[ ] Combox
+[X] Combox
 
 &nbsp;&nbsp;&nbsp;&nbsp;by this way:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Tabulation.1  
