@@ -20,29 +20,29 @@ document
 &nbsp;&nbsp;&nbsp;&nbsp;7> \~\~strikethrough\~\~: ~~strikethrough~~  
 &nbsp;&nbsp;&nbsp;&nbsp;8> \`Highlight\`: `Highlight`  
 ### 3. Tabel
-Table header.1|Table header.2|Table header.3
---|-|-
-Table content.1.1|Table content.1.2|Table content.1.3
-Table content.2.1|Table content.2.2|Table content.2.3
-Table content.3.1|Table content.3.2|Table content.3.3
+Table header.1|Table header.2|Table header.3|Table header.4
+--|:-|:-:|-:
+Table content.1.1|Table content.1.2|Table content.1.3|Table content.1.4
+2.1|2.2|2.3|2.4
+Table content.3.1|Table content.3.2|Table content.3.3|Table content.3.4
 
 &nbsp;&nbsp;&nbsp;&nbsp;by this way:  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Table header.1\|Table header.2\|Table header.3  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--\|-\|-  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Table content.1.1\|Table content.1.2\|Table content.1.3  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Table content.2.1\|Table content.2.2\|Table content.2.3  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Table content.3.1\|Table content.3.2\|Table content.3.3  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Table header.1\|Table header.2\|Table header.3\|Table header.4  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--\|:-\|:-:\|-:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Table content.1.1\|Table content.1.2\|Table content.1.3\|Table content.1.4  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.1\|2.2\|2.3\|2.4  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Table content.3.1\|Table content.3.2\|Table content.3.3\|Table content.3.4  
 ### 4. CheckBox
 - [ ] Combox.1.1
 - [X] Combox.1.2
 * [ ] Combox.2.1
-* [X] Combox.2.2
-&nbsp;&nbsp;&nbsp;&nbsp;by this way: 
+* [X] Combox.2.2  
+&nbsp;&nbsp;&nbsp;&nbsp;by this way:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- \[ \] Combox.1.1  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- \[X\] Combox.1.2  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* \[ \] Combox.2.1  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* \[X\] Combox.2.2  
-### 4. Tabulation & CheckBox
+### 5. Tabulation
 1. Tabulation.1
 2. Tabulation.2
 3. Tabulation.3
@@ -61,17 +61,17 @@ Table content.3.1|Table content.3.2|Table content.3.3
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* \[ \] CheckBox.1  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* \[X\] CheckBox.2  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Tabulation.3.2(before '\*' exist 3\~6 spaces)  
-### 5. Control character
+### 6. Control character
 &nbsp;&nbsp;&nbsp;&nbsp;blank space: `&nbsp;`  
 &nbsp;&nbsp;&nbsp;&nbsp;escape character: `\`  
 &nbsp;&nbsp;&nbsp;&nbsp;line feed: `Add two spaces at the end of the line`  
-### 6. Interlinkage
+### 7. Interlinkage
 \[Interlinkage name\]\(URL\): [Baidu](https://www.baidu.com/)
-### 6. Recommend?
+### 8. Recommend?
 > content  
 
 &nbsp;&nbsp;&nbsp;&nbsp;by this way:  
-&nbsp;&nbsp;&nbsp;&nbsp;> content  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;> content  
 
 ## ------------------------ `About git` -------------------------
 ### 1. git add .
