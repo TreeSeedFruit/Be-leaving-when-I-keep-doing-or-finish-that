@@ -82,4 +82,8 @@ Table content.3.1|Table content.3.2|Table content.3.3|Table content.3.4
 ### 6. ssh-keygen -t rsa -C "email"
 
 ## ------------------------ `About that` ------------------------
-### Nothing
+300
+* 2023/03/07
+    * ???
+* 2023/03/06
+    * 20:30-23:00 《COM技术内幕》 P11-P32
