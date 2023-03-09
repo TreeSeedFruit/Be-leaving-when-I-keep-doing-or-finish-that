@@ -83,6 +83,18 @@ Table content.3.1|Table content.3.2|Table content.3.3|Table content.3.4
 
 ## ------------------------ `About that` ------------------------
 299
+
+> 2023/03/08  
+> * 20:00-22:00 《COM技术内幕》 P46-P69
+> * 23:00-24:00 英语学习
+>     * be going to verb: 将来的计划
+>     * will verb: 将来的打算
+>     * 表达焦虑
+>         * Are you sure about that?
+>         * If you say so.
+>         * The Car?(重复)
+>         * You are not going to China? / Not China?(反驳)
+
 > 2023/03/07  
 > * 21:00-23:00 《COM技术内幕》 P33-P45
 
