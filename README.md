@@ -81,6 +81,12 @@ Table content.3.1|Table content.3.2|Table content.3.3|Table content.3.4
 ### 5. git push -u origin master
 ### 6. ssh-keygen -t rsa -C "email"
 
+## ---------------------- `About makefile` ----------------------
+### 1. vs configuration
+&nbsp;&nbsp;&nbsp;&nbsp;1> Solution -> Properties -> Configuration Properties -> General -> Project Defaults -> Configuration Type -> Selete "Makefile"  
+&nbsp;&nbsp;&nbsp;&nbsp;2> Solution -> Properties -> Configuration Properties -> NMake -> General -> Build Command Line -> Set "nmake" or ...  
+&nbsp;&nbsp;&nbsp;&nbsp;3> Rebuild All Command Line / Clean Command Line / Output
+
 ## ------------------------ `About that` ------------------------
 299
 > 2023/03/09  
