@@ -74,12 +74,16 @@ Table content.3.1|Table content.3.2|Table content.3.3|Table content.3.4
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;> content  
 
 ## ------------------------ `About git` -------------------------
-### 1. git add .
-### 2. git commit -m "commit msg"
-### 3. git remote add origin https://github.com/TreeSeedFruit/Be-leaving-when-I-keep-doing-or-finish-that.git
-### 4. git pull --rebase origin master
-### 5. git push -u origin master
-### 6. ssh-keygen -t rsa -C "email"
+### 01. git config --global user.name "name"
+### 02. git config --global user.email "email"
+### 03. git config --global core.quotepath false
+### 04. git config --global --add safe.directory \*\*\*
+### 05. ssh-keygen -t rsa -C "email"
+### 06. git add .
+### 07. git commit -m "commit msg"
+### 08. git remote add origin https://github.com/TreeSeedFruit/Be-leaving-when-I-keep-doing-or-finish-that.git
+### 09. git pull --rebase origin master
+### 10. git push -u origin master
 
 ## ---------------------- `About makefile` ----------------------
 ### 1. vs configuration
@@ -88,7 +92,10 @@ Table content.3.1|Table content.3.2|Table content.3.3|Table content.3.4
 &nbsp;&nbsp;&nbsp;&nbsp;3> Rebuild All Command Line / Clean Command Line / Output
 
 ## ------------------------ `About that` ------------------------
-298
+296
+> 2023/03/11
+> * 11:30-16:00 《COM技术内幕》 P27-79
+
 > 2023/03/10
 
 > 2023/03/09  
