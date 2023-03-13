@@ -92,7 +92,10 @@ Table content.3.1|Table content.3.2|Table content.3.3|Table content.3.4
 &nbsp;&nbsp;&nbsp;&nbsp;3> Rebuild All Command Line / Clean Command Line / Output
 
 ## ------------------------ `About that` ------------------------
-296
+295
+> 2023/03/12
+> * 18:00-19:30 《COM技术内幕》 P80-90
+
 > 2023/03/11
 > * 11:30-16:00 《COM技术内幕》 P27-79
 
